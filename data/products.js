@@ -114,9 +114,9 @@ var list_products = [{
     },
     "masp": "Xia0"
 }, {
-    "name": "balen To Ngang",
+    "name": "balen xám bọc dây",
     "company": "balen",
-    "img": "img/products/balenToNgang.jpg",
+    "img": "img/products/balenxámbọcdây.jpg",
     "price": "6600¥",
     "star": 5,
     "rateCount": 123,
